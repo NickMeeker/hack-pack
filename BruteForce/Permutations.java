@@ -9,7 +9,7 @@ class Permutations{
 	    if(index >= arr.length - 1){ //If we are at the last element - nothing left to permute
 	        //System.out.println(Arrays.toString(arr));
 	        //Print the array
-	        System.out.print("[");
+	        //System.out.print("[");
 	        for(int i = 0; i < arr.length - 1; i++){
 	        	// OPERATION GOES HERE
 	            //System.out.print(arr[i] + ", ");
