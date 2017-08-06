@@ -4,8 +4,6 @@ package Math;
 /**
  * 2D Geometry functions: Tests line intersection, parallel line intersection,
  * area of triangle, and area between vectors.
- * <p>
- * TO-DO: Circle-line segment intersection.
  */
 public class geo2d {
     public static void main(String[] args) {
